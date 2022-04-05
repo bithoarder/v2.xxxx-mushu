@@ -141,3 +141,12 @@ git clone https://github.com/jordanruthe/KlipperScreen.git
 cd ~/KlipperScreen
 ./scripts/KlipperScreen-install.sh
 ```
+
+## Klipper LED effect ##
+
+```sh
+cd ~
+git clone https://github.com/julianschill/klipper-led_effect.git
+cd klipper-led_effect
+./install-led_effect.sh
+```

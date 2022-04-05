@@ -9,5 +9,6 @@ The printer is based on the LDO kit, and only have a few minor changes:
 * [Dragon HF hotend](https://www.phaetus.com/phaetus-x-voron-hotend-hf/).
 * [Waveshare 4.3 display](https://www.waveshare.com/4.3inch-hdmi-lcd-b.htm).
 * [Waveshare mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/4.3_Inch_Touchscreen_Mount)
+* [Purge Bucket](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber)
 
 ![V2.mushu](./images/V2.mushu.jpg)
